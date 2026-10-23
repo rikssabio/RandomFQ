@@ -21,7 +21,15 @@ colors = [
     "Pink",
     "Green",
     "Yellow",
-    "Red"
+    "Red",
+    "Brown",
+    "Black",
+    "White",
+    "Orange",
+    "Gray",
+    "Turquoise",
+    "Silver",
+    "Gold",
 ]
 
 
