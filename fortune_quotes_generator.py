@@ -8,7 +8,11 @@ fortunes = [
     "Life is 10% what happens to me and 90% how I react to it.",
     "Spread love everywhere you go.",
     "Wake up determined, go to bed satisfied.",
-    "Just don't give up trying to do what you really want to do. Where there is love and inspiration, I don't think you can go wrong."
+    "Your intuition will guide you through a tricky situation today.",
+    "An unexpected acquaintance will soon bring you great joy.",
+    "Do not fear extra room in your life; it is space for better things to come.",
+    "Your kindness is a bank account that never runs out of interest.",
+    "Building a culture that deeply values people doesn’t preclude holding them to high standards.",
 ]
 
 colors = [
@@ -35,6 +39,7 @@ for attempt in range(3):
     print("Your lucky color is:", color)
 
     print(f"\nFortune {attempt + 1} of 3")
+    
 
 print("\nThat was your 3 fortunes for today!")
 print("Have a wonderful day!")
